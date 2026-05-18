@@ -18,43 +18,39 @@
 
 ## 🦇 &nbsp;About the Dark Knight
 
+<p align="center">
+  Cybersecurity engineer focused on <b>detection engineering</b>, <b>threat intelligence</b>,<br/>
+  and <b>AI-powered security automation</b>. Based in Azerbaijan.
+</p>
+
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="50%">
 
-```yaml
-alias:        pashasec
-codename:     The Dark Knight of DevSec
-discipline:   Cybersecurity & AI Engineer
-mission:      Defending the digital Gotham
-patrolling:   Networks · Endpoints · Identities · Clouds
-arsenal:      SIEM · SOAR · XDR · Threat Intel · AI
-base:         The Batcave (Azerbaijan)
-currently:    30-day cybersecurity tools challenge
-motto:        "Be the threat you wish to defeat."
-```
+### 🎯 &nbsp;Focus
+
+- **Detection engineering** — KQL hunting across Microsoft Sentinel and Defender XDR
+- **Threat intelligence** — operationalizing IoCs and external exposure data via SOCRadar
+- **Security automation** — SOAR playbooks, AI-assisted triage, custom tooling
+- **Vulnerability research** — CVE enrichment, PoC analysis, risk scoring
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="50%">
 
-```
+### 🚀 &nbsp;Currently
 
-                _,    _   _    ,_
-          .o888P     Y8o8Y     Y888o.
-         d88888      88888      88888b
-        d888888b_  _d88888b_  _d888888b
-        8888888888888888888888888888888
-        8888888888888888888888888888888
-        YJGS8P"Y888P"Y888P"Y888P"Y8888P
-         Y888   '8'   Y8P   '8'   888Y
-          '8o          V          o8'
-            `                     `
-
-```
+- Shipping the **30-day cybersecurity tools challenge**
+- Building open-source security utilities in Python
+- Pairing classical detections with AI-driven workflows
+- Sharing every build on [LinkedIn](https://www.linkedin.com/in/elshanpashayev/)
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <i>"Be the threat you wish to defeat."</i>
+</p>
 
 ---
 
