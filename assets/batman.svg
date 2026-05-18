@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" preserveAspectRatio="xMidYMid meet">
+  <!-- Gotham night sky -->
+  <defs>
+    <radialGradient id="sky" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#1A1A1A"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    <radialGradient id="signal" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"  stop-color="#FFEC55" stop-opacity="1"/>
+      <stop offset="65%" stop-color="#F9DC1C" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#F9DC1C" stop-opacity="0.0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="500" height="500" fill="url(#sky)"/>
+
+  <!-- Drifting clouds (parallax atmosphere) -->
+  <g opacity="0.18">
+    <ellipse cx="60" cy="90" rx="90" ry="18" fill="#888">
+      <animate attributeName="cx" values="-120;620" dur="22s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="300" cy="430" rx="120" ry="22" fill="#777">
+      <animate attributeName="cx" values="-220;620" dur="28s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="200" cy="60" rx="70" ry="14" fill="#999">
+      <animate attributeName="cx" values="-180;620" dur="19s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- Outer pulsing glow ring -->
+  <circle cx="250" cy="250" r="215" fill="none" stroke="#F9DC1C" stroke-width="2" opacity="0.35">
+    <animate attributeName="r" values="200;235;200" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.15;0.45;0.15" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Bat-Signal core (gradient + pulse) -->
+  <circle cx="250" cy="250" r="185" fill="url(#signal)">
+    <animate attributeName="r" values="175;200;175" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Bat silhouette: stylized Bat-Signal icon -->
+  <g transform="translate(250,260)" fill="#000">
+    <!-- Head + ears -->
+    <polygon points="-22,-50 -10,-78 -2,-60"/>
+    <polygon points="22,-50 10,-78 2,-60"/>
+    <ellipse cx="0" cy="-50" rx="22" ry="18"/>
+
+    <!-- Body (downward chevron with wing peaks) -->
+    <path d="
+      M -10,-32
+      C -10,-25 -8,-15 0,5
+      C 8,-15 10,-25 10,-32
+      Z"/>
+
+    <!-- Right wing -->
+    <path d="
+      M 10,-30
+      Q 60,-50 100,-40
+      L 130,-48
+      L 122,-30
+      L 150,-25
+      L 128,-12
+      L 152,-2
+      L 122,2
+      L 138,18
+      L 108,12
+      L 116,30
+      L 88,18
+      L 92,38
+      L 64,22
+      L 58,40
+      L 38,20
+      L 24,38
+      L 14,18
+      L 4,8
+      Z"/>
+
+    <!-- Left wing (mirrored) -->
+    <path d="
+      M -10,-30
+      Q -60,-50 -100,-40
+      L -130,-48
+      L -122,-30
+      L -150,-25
+      L -128,-12
+      L -152,-2
+      L -122,2
+      L -138,18
+      L -108,12
+      L -116,30
+      L -88,18
+      L -92,38
+      L -64,22
+      L -58,40
+      L -38,20
+      L -24,38
+      L -14,18
+      L -4,8
+      Z"/>
+  </g>
+</svg>

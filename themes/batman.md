@@ -18,31 +18,27 @@
 
 ## 🦇 &nbsp;About the Dark Knight
 
-<p align="center">
-  Cybersecurity engineer focused on <b>detection engineering</b>, <b>threat intelligence</b>,<br/>
-  and <b>AI-powered security automation</b>. Based in Azerbaijan.
-</p>
-
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="middle" width="58%">
 
-### 🎯 &nbsp;Focus
-
-- **Detection engineering** — KQL hunting across Microsoft Sentinel and Defender XDR
-- **Threat intelligence** — operationalizing IoCs and external exposure data via SOCRadar
-- **Security automation** — SOAR playbooks, AI-assisted triage, custom tooling
-- **Vulnerability research** — CVE enrichment, PoC analysis, risk scoring
+```yaml
+name:        pashasec
+role:        Cybersecurity & AI Engineer
+focus:
+  - offensive & defensive security
+  - threat intelligence & detection engineering
+  - AI systems & automation
+building:    security products & open-source tools
+mindset:     entrepreneur · ship fast · learn faster
+location:    Azerbaijan
+currently:   30-day cybersecurity tools challenge
+```
 
 </td>
-<td valign="top" width="50%">
+<td valign="middle" width="42%" align="center">
 
-### 🚀 &nbsp;Currently
-
-- Shipping the **30-day cybersecurity tools challenge**
-- Building open-source security utilities in Python
-- Pairing classical detections with AI-driven workflows
-- Sharing every build on [LinkedIn](https://www.linkedin.com/in/elshanpashayev/)
+<img src="assets/batman.svg" width="100%" alt="Bat-Signal"/>
 
 </td>
 </tr>
