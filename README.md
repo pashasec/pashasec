@@ -82,7 +82,7 @@ currently:   30-day cybersecurity tools challenge
 
 <p align="center"><b>Threat Intelligence</b> &nbsp;·&nbsp; <i>primary platform → SOCRadar</i></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/SOCRadar-EF1B25?style=for-the-badge&logoColor=white&label=★%20SOCRadar"/>
+  
   <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white"/>
   <img src="https://img.shields.io/badge/MISP-1F305F?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recorded_Future-CC2127?style=for-the-badge&logoColor=white"/>
