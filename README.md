@@ -114,7 +114,7 @@ currently:   30-day cybersecurity tools challenge
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=pashasec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F5A0&icon_color=00F5A0&text_color=c9d1d9"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=pashasec&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0&sideLabels=c9d1d9&dates=c9d1d9"/>
+  
 </p>
 
 <p align="center">
