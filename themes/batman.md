@@ -38,7 +38,7 @@ currently:   30-day cybersecurity tools challenge
 </td>
 <td valign="middle" width="42%" align="center">
 
-<img src="assets/batman.svg" width="100%" alt="Bat-Signal"/>
+<img src="https://media.tenor.com/qUYDlTX2kuwAAAAM/batman-im.gif" width="100%" alt="Batman"/>
 
 </td>
 </tr>
