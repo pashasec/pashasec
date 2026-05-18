@@ -122,7 +122,7 @@ currently:   30-day cybersecurity tools challenge
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pashasec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A0&langs_count=6"/>
+  
 </p>
 
 ---
